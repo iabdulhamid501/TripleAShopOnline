@@ -253,7 +253,7 @@ $orders_result = $con->query($orders_query);
                                     <th>Order ID</th>
                                     <th>Customer</th>
                                     <th>Amount (₦)</th>
-                                    <th>Status</th>
+                                    <th>Order Status</th>
                                     <th>Order Date</th>
                                     <th>Action</th>
                                 </tr>
